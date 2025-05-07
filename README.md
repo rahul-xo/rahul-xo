@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rahul bisht and I'm a Mern Stack Developer, from India</h2>
+<h2 align="left">Hi 👋! My name is Rahul and I'm a Mern Stack Developer, from India</h2>
 
 ###
 
@@ -60,6 +60,20 @@
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/rahul-xo/count.svg?"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/rahul-bisht-49b06428a/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.com/channels/@bennit#9261" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.instagram.com/beasttt0/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
